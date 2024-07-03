@@ -1,0 +1,6 @@
+# Ignorar la carpeta de entorno virtual
+/venv
+
+# Ignorar archivos específicos
+SPD_310.txt
+SPD.txt
